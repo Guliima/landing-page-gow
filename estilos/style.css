@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+/* Cores */            /* Fontes */
+/*                     
+#4A96D9     #1E3E59     
+#6889A6     #A61B1B     God of War
+#DDE6FD     #111311     Poppins
+#1B130F     #DCC691     Anton
+#275D8C     #50A7F2     Peddana
+#3F83BF     #B8CCD9     Roman
+#0D0D0D     #6E675F
+*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html, body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 12px;
+}
+
+body {
+    background-color: #1e3e59;
+    width: 100vw;
+}
+
+#menu {
+    margin: 0px 25px 0px 50px;
+    float: right;
+    list-style-type: none;
+}
+
+#menu li {
+    border: 1px solid #dcc691;
+}
+
+#menu a {
+    font-weight: bolder;
+    font-size: 1.2em;
+    text-decoration: none;
+    color: #0d0d0d;
+}
+
+.menu-interno {
+    display: block;
+    font-size: 0.7em;
+}
