@@ -27,6 +27,22 @@ body {
     width: 100vw;
 }
 
+#foto-perfil {
+    display: block;
+    width: 70vw;
+    height: 60vh;
+    margin: auto;
+    margin-top: 10px;
+    padding: 2px;
+    border-radius: 50%;
+}
+
+#foto-perfil img {
+    width: 68vw;
+    border: 5px solid #dcc691;
+    border-radius: 50%;
+}
+
 #menu {
     margin: 0px 25px 0px 50px;
     float: right;
