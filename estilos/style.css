@@ -61,6 +61,10 @@ body {
 }
 
 .menu-interno {
-    display: block;
+    display: none;
     font-size: 0.7em;
+}
+
+#video {
+    
 }
