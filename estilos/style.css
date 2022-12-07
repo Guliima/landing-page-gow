@@ -84,3 +84,21 @@ nav li {
     display: none;
     font-size: 0.7em;
 }
+
+main {
+    width: 940px;
+}
+
+#video {
+    position: absolute;
+    top: 280px;
+    left: 300px;
+    background-color: white;
+    width: 568px;
+    height: 322px;
+    border-radius: 2px;
+}
+
+#video iframe {
+    margin: 4px;
+}
