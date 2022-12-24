@@ -89,7 +89,7 @@ main {
     width: 940px;
 }
 
-#video {
+.video {
     position: absolute;
     top: 280px;
     left: 300px;
@@ -99,6 +99,6 @@ main {
     border-radius: 2px;
 }
 
-#video iframe {
+.video iframe {
     margin: 4px;
 }
